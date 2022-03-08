@@ -2,7 +2,7 @@
 
 Undergraduate student (graduating 2023),  
 [School of Management](http://www.hfut.edu.cn/glxyen/),  
-[Hefei University of Technology](http://https://en.hfut.edu.cn//), China  
+[Hefei University of Technology](http://en.hfut.edu.cn//), China  
 
 [LinkedIn](https://www.linkedin.com/in/yicheng-liao-62b5041a7/)  
 Mail: 2019211460@mail.hfut.edu.cn

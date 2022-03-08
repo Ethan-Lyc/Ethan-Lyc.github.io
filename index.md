@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# Ethan Yicheng Liao
 
-You can use the [editor on GitHub](https://github.com/Ethan-Lyc/EthanLiao/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Undergraduate student (graduating 2023),  
+[School of Management](http://www.hfut.edu.cn/glxyen/),  
+[Hefei University of Technology](http://https://en.hfut.edu.cn//), China  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[LinkedIn](https://www.linkedin.com/in/yicheng-liao-62b5041a7/)  
+Mail: 2019211460@mail.hfut.edu.cn
+      
+# Biography
 
-### Markdown
+Hi,I'm Ethan Liao
+I'm currently a student in Hefei University of Technology,self-studying computer science and software development.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Expected to graduate from Hefei University of Technology in Summer 2023.
 
-```markdown
-Syntax highlighted code block
+Planning to pursue a master's degree in Computer Science as well as Operations Research related programs in the US.
 
-# Header 1
-## Header 2
-### Header 3
+# Interests
+Graph Neural Networks  
+Time Series Analysis  
+Stochastic Process  
+Data Mining
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Education
+## Hefei University of Technology
+Bachelor of Management, Big Data Management and Application, School of Management.
+Sep 2019 - Jul 2023, Hefei, China  
+GPA 3.81/4.3 (Overall) ,
 
-**Bold** and _Italic_ and `Code` text
+For some CS related courses （Grade,maximum A）:  
+- Probability and Mathematical Statistics (A)  
+- C/C++ Language Program Design (A)  
+- Data Structure (A)   
+- Computer Network(A)  
 
-[Link](url) and ![Image](src)
-```
+## University of California, Berkeley
+Summer Session, Data Science, Division of Computing, Data Science, and Society  
+Jun 2021 - Aug 2021, Berkeley, CA  
+GPA 4.0/4.0  
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Professional Experience
+### Institute of Big Data Cloud Computing Center of the Chinese Academy
+Jul 2021 - Aug 2021  
+Data Analysis Assistant, Summer Intern  
+ - Engaged in daily analysis work on Urban traffic flow via framework in Python  
+ - Completed daily report and submit to the supervisor  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ethan-Lyc/EthanLiao/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Awards and Honors
+Scholarship of Excellent Undergraduate Student in 2019-2020,2020-2021 Academic Year  
+Merit Student, Oct 2020  
+1st Prize of Uchallenge English Speech Contest for College Students  
+2nd Prize in Mathematics Competition for College Students
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Language Skills
+
+**English**, Fluent  （IELTS 7.0, CET4: 631）  
+**Chinese (Mandarin)**, Native  
+**Chinese (Cantonese)**,    
+
+# Hobby
+Music(various kind of genres!), Basketball games, travelling, language study

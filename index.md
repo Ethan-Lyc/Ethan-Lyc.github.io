@@ -36,9 +36,9 @@ For some CS related courses （Grade,maximum A）:
 - Computer Network(A)  
 
 ## University of California, Berkeley
-Summer Session, Data Science, Division of Computing, Data Science, and Society  
-Jun 2021 - Aug 2021, Berkeley, CA  
-GPA 4.0/4.0  
+CS61A,CS61B,CS70,Department of Electrical Engineering and Computer Sciences
+Dec 2021 - March 2022, Berkeley, CA  
+ 
 
 
 ## Professional Experience

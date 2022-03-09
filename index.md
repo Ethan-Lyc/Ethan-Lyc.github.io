@@ -36,7 +36,8 @@ For some CS related courses （Grade,maximum A）:
 - Computer Network(A)  
 
 ## University of California, Berkeley
-CS61A,CS61B,CS70,Department of Electrical Engineering and Computer Sciences   
+CS61A,CS61B,CS70,Department of Electrical Engineering and Computer Sciences
+
 Dec 2021 - March 2022, Berkeley, CA  
  
 

@@ -5,6 +5,7 @@ Undergraduate student (graduating 2023),
 [Hefei University of Technology](http://en.hfut.edu.cn//), China  
 
 [LinkedIn](https://www.linkedin.com/in/yicheng-liao-62b5041a7/)  
+[Leetcode](https://leetcode.cn/u/ethan-douzi/)  
 Mail: 2019211460@mail.hfut.edu.cn
       
 # Biography
@@ -66,4 +67,4 @@ Merit Student, Oct 2020
 **Chinese (Cantonese)**,    
 
 # Hobby
-Music(various kind of genres!), Basketball games, travelling, language study
+Coding(algorithm problem),Music(various kind of genres!), Basketball games, travelling, language study

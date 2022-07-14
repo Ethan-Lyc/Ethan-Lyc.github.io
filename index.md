@@ -20,9 +20,9 @@ Expected to graduate from Hefei University of Technology in Summer 2023.
 Planning to pursue a master's degree in Computer Science as well as Operations Research related programs in the US.
 
 # Interests
-Graph Neural Networks 
-Recommender System 
-Stochastic Process   
+Graph Neural Networks    
+Recommender System    
+Stochastic Process    
 Data Mining 
 
 

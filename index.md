@@ -21,7 +21,7 @@ Planning to pursue a master's degree in Computer Science as well as Operations R
 
 # Interests
 Graph Neural Networks    
-Recommender System       
+Recommender System          
 Stochastic Process    
 Data Mining 
 

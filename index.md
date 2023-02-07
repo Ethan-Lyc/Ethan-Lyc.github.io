@@ -10,12 +10,11 @@ Mail: 2019211460@mail.hfut.edu.cn
       
 # Biography
 
-Hi,I'm Ethan Liao
-I'm currently a student in Hefei University of Technology,self-studying computer science and software development, I'm a life-long self-taught student. I learned most of my CS knowledge from online resources (courses, books), which shape me into who I am today. 
+Hi,I'm Ethan Liao. I am an incoming 0th year Master's student at Georgia Tech.
+Currently I am a 4th-year student in Hefei University of Technology,self-studying computer science and software development, I'm a life-long self-taught student. I learned most of my CS knowledge from online resources (courses, books), which shape me into who I am today. 
 
 Expected to graduate from Hefei University of Technology in Summer 2023.
 
-Planning to pursue a master's degree in Computer Science as well as Operations Research related programs in the US.
 
 # Interests
 Graph Neural Networks    
